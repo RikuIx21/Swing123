@@ -12,7 +12,7 @@ public class Test {
             System.out.println("请输入一个数字：");
             int i = scan.nextInt();
             if (i==1){
-                System.out.println("x坐标"+x+" "+"y坐标"+y); 
+                System.out.println("x坐标"+x+" "+"y坐标"+y);
             }
         }
     }
