@@ -25,9 +25,5 @@ public class App extends R implements S {
 
     }
 
-    @Override
-    public void ccc() {
-        System.out.println("hahaha");
-    }
 }
 
